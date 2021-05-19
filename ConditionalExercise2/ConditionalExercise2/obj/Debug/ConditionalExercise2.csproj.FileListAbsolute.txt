@@ -1,0 +1,7 @@
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ConditionalExercise2\ConditionalExercise2\bin\Debug\ConditionalExercise2.exe.config
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ConditionalExercise2\ConditionalExercise2\bin\Debug\ConditionalExercise2.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ConditionalExercise2\ConditionalExercise2\bin\Debug\ConditionalExercise2.pdb
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ConditionalExercise2\ConditionalExercise2\obj\Debug\ConditionalExercise2.csprojAssemblyReference.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ConditionalExercise2\ConditionalExercise2\obj\Debug\ConditionalExercise2.csproj.CoreCompileInputs.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ConditionalExercise2\ConditionalExercise2\obj\Debug\ConditionalExercise2.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ConditionalExercise2\ConditionalExercise2\obj\Debug\ConditionalExercise2.pdb
